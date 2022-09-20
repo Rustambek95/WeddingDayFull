@@ -41,7 +41,7 @@ h2 {
 }
 
 .cards {
-    width: 350px;
+    width: 30%;
     margin: 70px auto;
     display: flex;
     align-items: center;
