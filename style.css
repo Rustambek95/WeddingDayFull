@@ -33,6 +33,15 @@ h1 {
     -webkit-text-fill-color: transparent;
     text-transform: lowercase;
 }
+.daywedding{
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+    background: -webkit-linear-gradient(#1b63ff, #6dff18);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-transform: lowercase;
+}
 
 h2 {
     text-align: center;
